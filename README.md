@@ -4,4 +4,4 @@
 
 2-server change
 
-correction on the server?
+correction on the server. Create new branch then checkout this branch
